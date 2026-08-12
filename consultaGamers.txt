@@ -1,0 +1,1 @@
+Esta es una consulta en mysql para obtener todos los gmers
